@@ -1,0 +1,25 @@
+﻿  large_numbers.cpp
+c:\users\diuvi\source\repos\large_numbers\large_numbers\large_numbers.cpp(14): warning C4307: '*': integral constant overflow
+  BigInt.cpp
+c:\users\diuvi\source\repos\large_numbers\large_numbers\bigint.cpp(33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\diuvi\source\repos\large_numbers\large_numbers\bigint.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\diuvi\source\repos\large_numbers\large_numbers\bigint.cpp(131): error C2601: 'accumulate': local function definitions are illegal
+  c:\users\diuvi\source\repos\large_numbers\large_numbers\bigint.cpp(125): note: this line contains a '{' which has not yet been matched
+c:\users\diuvi\source\repos\large_numbers\large_numbers\bigint.cpp(147): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\diuvi\source\repos\large_numbers\large_numbers\bigint.cpp(150): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\diuvi\source\repos\large_numbers\large_numbers\bigint.cpp(150): error C3867: 'std::vector<unsigned int,std::allocator<_Ty>>::size': non-standard syntax; use '&' to create a pointer to member
+          with
+          [
+              _Ty=unsigned int
+          ]
+c:\users\diuvi\source\repos\large_numbers\large_numbers\bigint.cpp(150): error C2446: '<': no conversion from 'unsigned __int64 (__cdecl std::vector<unsigned int,std::allocator<_Ty>>::* )(void) noexcept const' to 'int'
+          with
+          [
+              _Ty=unsigned int
+          ]
+  c:\users\diuvi\source\repos\large_numbers\large_numbers\bigint.cpp(150): note: There is no context in which this conversion is possible
+c:\users\diuvi\source\repos\large_numbers\large_numbers\bigint.cpp(179): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\diuvi\source\repos\large_numbers\large_numbers\bigint.cpp(208): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\diuvi\source\repos\large_numbers\large_numbers\bigint.cpp(218): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\diuvi\source\repos\large_numbers\large_numbers\bigint.cpp(228): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
